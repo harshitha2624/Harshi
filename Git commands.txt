@@ -1,0 +1,14 @@
+open file that need to push in terminal
+ls(lists the files in directory)
+git init
+git status
+git add . ("for all files to push we used (.)" to push only specific file enter filename with extension.)
+git status
+git commit -m "First commit"
+enter git mail and username
+git commit -m "First commit"
+git remote add origin "our repository url"
+git push origin master
+enter username of git account
+password is the token id of our account
+check in git dashboard whether file is pushed or not.
